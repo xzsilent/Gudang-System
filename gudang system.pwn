@@ -1,7 +1,7 @@
 //=====Credit xzsilent==>
 
-//nih free dah
-//kalo buuh jasa dev contact aja
+//join my comunity disana ngobrolin tentang ngoding pawn ngobrol dll
+https://discord.gg/UJkr2XSC
 
 #define MAX_GUDANG 10
 #define MAX_ITEMS 20
