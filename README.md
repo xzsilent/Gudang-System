@@ -136,4 +136,4 @@ stock GetClosestGudang(playerid)
 stock Float:GetDistanceBetweenCoords(Float:x1, Float:y1, Float:z1, Float:x2, Float:y2, Float:z2)
 {
     return floatsqroot(floatpower(x2 - x1, 2) + floatpower(y2 - y1, 2) + floatpower(z2 - z1, 2));
-}```
+}
